@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeaponSimulation", "VeaponSimulation\VeaponSimulation.csproj", "{EDCA6088-E46D-4CE9-9205-F6AC3B4B1282}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{3385A7E5-7BD1-4C3B-A2CC-E8453F4B6177}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDCA6088-E46D-4CE9-9205-F6AC3B4B1282}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDCA6088-E46D-4CE9-9205-F6AC3B4B1282}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDCA6088-E46D-4CE9-9205-F6AC3B4B1282}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDCA6088-E46D-4CE9-9205-F6AC3B4B1282}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3385A7E5-7BD1-4C3B-A2CC-E8453F4B6177}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3385A7E5-7BD1-4C3B-A2CC-E8453F4B6177}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3385A7E5-7BD1-4C3B-A2CC-E8453F4B6177}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3385A7E5-7BD1-4C3B-A2CC-E8453F4B6177}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1FBEB0E-3F58-4C05-AD0B-79C0053BEA27}
+	EndGlobalSection
+EndGlobal
